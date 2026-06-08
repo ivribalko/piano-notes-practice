@@ -1,0 +1,35 @@
+# macOS
+.DS_Store
+
+# Xcode user state
+*.xcuserstate
+*.xcuserdata/
+xcuserdata/
+
+# Xcode build output
+DerivedData*/
+build/
+Build/
+*.ipa
+*.dSYM
+*.dSYM.zip
+
+# Swift Package Manager / build caches
+.build/
+.swiftpm/
+
+# App signing and private local config
+*.mobileprovision
+*.provisionprofile
+*.p8
+*.cer
+*.certSigningRequest
+
+# Editor and local environment files
+secrets/
+.vscode/
+.idea/
+*.swp
+*.swo
+*.tmp
+*.log
