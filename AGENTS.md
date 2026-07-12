@@ -4,6 +4,7 @@ Minimal native SwiftUI iOS app with no packages or network dependencies. See `AR
 
 - This repository is public. Never commit secrets, private identifiers, signing configuration, credentials, or other sensitive data.
 - The dark app icon must use a transparent outer background and transparent symbol cutouts; do not add a background gradient.
+- Whenever the app icon changes, update `docs/assets/app-icon.svg` from the canonical Icon Composer artwork in `PianoNotesPractice/AppIcon.icon/Assets` so the website uses the same design.
 
 ## Product Behavior
 
